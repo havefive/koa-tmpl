@@ -1,5 +1,6 @@
 # koa-tmpl
 A template project with koa and eggjs
+(中文版本请参看[这里](./README_CN.md))
 
 # Please read first 
 https://github.com/eggjs/egg
