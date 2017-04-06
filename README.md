@@ -1,9 +1,11 @@
 # koa-tmpl
-A template project with koa and eggjs
+A template project with eggjs and parse-server
 (中文版本请参看[这里](./README_CN.md))
 
 # Please read first 
 https://github.com/eggjs/egg
+
+https://github.com/parse-community/parse-server
 
 # Examples
 
