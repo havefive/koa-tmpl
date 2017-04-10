@@ -24,9 +24,11 @@ $ open http://localhost:7001
 ```
 2. intall Parse-server
 
+```
 npm install parse-server --save
-
+```
 3. edit index.js
+
 ```
 
 'use strict';
@@ -73,4 +75,6 @@ require('egg').startCluster({
 ```
 parse-server will work on port 1370
 
+
+To be continued
 
