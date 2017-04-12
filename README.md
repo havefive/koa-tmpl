@@ -11,6 +11,9 @@ https://github.com/parse-community/parse-server
 
 https://github.com/eggjs/examples
 
+# Environment configuration
+node>=6.0
+
 # Steps
 
 1. install eggjs and init project
@@ -73,7 +76,7 @@ require('egg').startCluster({
 
 
 ```
-parse-server will work on port 1370
+parse-server will be work on port 1370, web server will be work on port 7001
 
 
 To be continued
